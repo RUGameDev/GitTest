@@ -7,8 +7,8 @@ After cloning
 Made yet another change in a branch
 
 
-checking difference
-check again
+Trying a new branch
+
 
 lets try again
 diff test
